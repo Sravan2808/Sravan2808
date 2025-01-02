@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WebDev,Devops and DSA**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **vsravansurya@gmail.com**
 
