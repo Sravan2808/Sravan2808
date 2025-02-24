@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **vsravansurya@gmail.com**
 
+<p align ="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Sravan2808&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
+    alt="Sravan2808" 
+    style="border-radius: 15px;"/>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/ss19732004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ss19732004" height="30" width="40" /></a>
