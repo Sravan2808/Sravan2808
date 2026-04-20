@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sravan Surya</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+# SRAVAN SURYA
+=================
 
-- 🔭 I’m currently working on **WebDev,Devops and DSA**
+Love building scalable web apps and real-time systems.  
+Focused on full stack development using modern technologies.
 
-- 🌱 I’m currently learning **Backend**
+---------------  
+Connect With Me  
 
-- 📫 How to reach me **vsravansurya@gmail.com**
+» Portfolio     → https://www.sravansurya.in/  
+» LinkedIn      → https://www.linkedin.com/in/sravan-surya-a890b4261/  
+» GitHub        → https://github.com/Sravan2808  
+» Email         → yourmail@gmail.com  
 
-<p align ="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Sravan2808&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
-    alt="Sravan2808" 
-    style="border-radius: 15px;"/>
-</p>
+--------------  
+Skills & Technology  
 
+» Frontend:     React, Next.js, TypeScript, Tailwind CSS  
+» Backend:      Node.js, Express.js, REST APIs  
+» Databases:    MongoDB, PostgreSQL  
+» State Mgmt:   Redux Toolkit, TanStack Query  
+» DevOps:       Docker, AWS EC2  
+» Tools:        Git, Postman  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/ss19732004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ss19732004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sravan-surya-a890b4261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sravan-surya-a890b4261/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vsravansurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vsravansurya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vsravanmdbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vsravanmdbs" height="30" width="40" /></a>
-</p>
+-----------------  
+Featured Projects  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+● S2Chat  
+  ✦ AI-powered real-time chat app with WebSockets, authentication, and AI integrations  
+  ✦ Links: https://genaichat.onrender.com/ui • https://github.com/Sravan2808/GenAiChat  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravan2808&" alt="sravan2808" /></p>
+● LeetLab  
+  ✦ Full-stack coding platform with Judge0 integration, authentication, and problem management  
+  ✦ Links: https://github.com/Sravan2808/LeetLab  
+
+● DevTinder  
+  ✦ Developer matchmaking platform with JWT auth, Redux, and AWS deployment  
+  ✦ Links: https://devtinder-ebgf.onrender.com/ • https://github.com/Sravan2808/DevTinder  
+
+● URL Shortener  
+  ✦ Scalable backend API with PostgreSQL, Drizzle ORM, JWT auth, and Docker  
+  ✦ Links: https://github.com/Sravan2808/Drizzle_Url_Shortner  
+
+● Todo App  
+  ✦ Full-stack Next.js app with server actions, MongoDB, and modern UI architecture  
+  ✦ Links: https://todo-nextjs-three-gray.vercel.app/ • https://github.com/Sravan2808/Todo-Nextjs  
+
+--------------------------  
+Thanks for visiting!  
+
+Feel free to connect, collaborate, or just say hi.  
+
+Let's build something great together.
